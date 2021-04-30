@@ -19,5 +19,5 @@
 <br></br>
 
 
-<br><img src="https://github-readme-stats.vercel.app/api?username=7H3P4n7h3R&&show_icons=true&theme=radical"></br>
+<img src="https://github-readme-stats.vercel.app/api?username=7H3P4n7h3R&&show_icons=true&theme=radical">
 
