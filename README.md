@@ -7,5 +7,5 @@ I Love To Break And Break And Create !
 - 👯 I’m looking to collaborate on BugBounty Programs
 - 🤔 I’m looking for help with Creating Tools With Golang
 - 💬 Ask me about BugHunting 
-- ⚡ Fun fact: Eat|Sleep|Code|Repeat
+- ⚡ Fun fact: Eat-Sleep-Code-Repeat
 
