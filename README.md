@@ -31,15 +31,16 @@ I Am a Cyber Security Enthusiast :))
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Source Code Review (Automate and Manual).</li>
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Digital Marketing Expert </li>
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Automating boring tasks with Programming.</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Playing CTFs and Hacking related challenges (<a href="https://github.com/bhattsameer/CTFWriteUps">CTFWriteUps</a>)</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Playing CTFs and Hacking.</li>
 </ul>
+<br>
 
-- 🔭 I’m currently working As Penetration Tester At <a href=https://securityfoster.com/>Security Foster</a>
-- 🌱 I’m currently learning Python And Go
+- 🔭 I do bugHunting Sometimes </a>
+- 🌱 I’m currently Preparing For OSCP
 - 👯 I’m looking to collaborate on BugBounty Programs
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with OSCP
 - 💬 Ask me about BugHunting Tips
-- ⚡ Fun fact: Eat-Sleep-Code-Repeat
+- ⚡ Fun fact: Eat-Sleep-Code-Hack-Repeat
 
 <br></br>
 
