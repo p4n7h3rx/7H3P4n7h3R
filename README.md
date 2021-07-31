@@ -17,7 +17,8 @@ I Am a Cyber Security Enthusiast :))
 </p>
 <p>I have stared my journey in the security field as a bug bounty hunter. I have stared my professional journey as Penetration Tester. Currently I am working as Pentester/Security Researcher and Digital Marketing Expert at <a href="https://securityfoster.com/" rel="nofollow">Security Foster</a>. In these 2+ years of experience I have performed pentesting on many national and international Banking, Financial, Government, Health etc. organization's Internal and external applications with direct client communication.</p>
 
-<p>Security Foster is team of security professionals who have worked and contributed to reputed organizations globally known.<a href="https://securityfoster.com/" rel="nofollow"><a href="https://securityfoster.com/" rel="nofollow">Security Foster</a></p>
+<p>Security Foster is team of security professionals who have worked and contributed to reputed organizations globally known.
+  <b>Hire Us</b><a href="https://securityfoster.com/" rel="nofollow"><a href="https://securityfoster.com/" rel="nofollow">Security Foster</a></p>
 </div>
 <h2><ul>Love To Crack </ul></h2> 
 
