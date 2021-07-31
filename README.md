@@ -17,10 +17,22 @@ I Am a Cyber Security Enthusiast :))
 </p>
 <p>I have stared my journey in the security field as a bug bounty hunter. I have stared my professional journey as Penetration Tester. Currently I am working as Pentester/Security Researcher and Digital Marketing Expert at <a href="https://securityfoster.com/" rel="nofollow">Security Foster</a>. In these 2+ years of experience I have performed pentesting on many national and international Banking, Financial, Government, Health etc. organization's Internal and external applications with direct client communication.</p>
 
-<p>Security Foster is team of security professionals who have worked and contributed to reputed organizations globally known.<br>
+<p>Security Foster is team of security professionals who have worked and contributed to reputed organizations globally known.<br><br>
  <b>Hire Us!</b><br><a href="https://securityfoster.com/" rel="nofollow"><a href="https://securityfoster.com/" rel="nofollow">Security Foster</a></p></br>
 </div>
-<h2><ul>Love To Crack </ul></h2> 
+
+<h3><a id="user-content-my-skillset" class="anchor" aria-hidden="true" href="#my-skillset"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My Skillset:</h3>
+
+<ul>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Web Application  Penetration Testing.</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Mobile Application Penetration Testing (Android and iOS).</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> API Assessment.</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Network Assessment.</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Source Code Review (Automate and Manual).</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> OSINT (Built one OSINT tool <a href="https://github.com/bhattsameer/numspy">Numspy</a>)</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Automating boring tasks with Programming (Scripting experience <a href="https://github.com/bhattsameer/devtool-snippets-forhacks">devtool-snippets-forhacks</a>)</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Playing CTFs and Hacking related challenges (<a href="https://github.com/bhattsameer/CTFWriteUps">CTFWriteUps</a>)</li>
+</ul>
 
 - 🔭 I’m currently working As Penetration Tester At <a href=https://securityfoster.com/>Security Foster</a>
 - 🌱 I’m currently learning Python And Go
