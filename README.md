@@ -29,8 +29,8 @@ I Am a Cyber Security Enthusiast :))
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> API Assessment.</li>
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Network Assessment.</li>
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Source Code Review (Automate and Manual).</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> OSINT (Built one OSINT tool <a href="https://github.com/bhattsameer/numspy">Numspy</a>)</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Automating boring tasks with Programming (Scripting experience <a href="https://github.com/bhattsameer/devtool-snippets-forhacks">devtool-snippets-forhacks</a>)</li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Digital Marketing Expert </li>
+<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Automating boring tasks with Programming.</li>
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Playing CTFs and Hacking related challenges (<a href="https://github.com/bhattsameer/CTFWriteUps">CTFWriteUps</a>)</li>
 </ul>
 
