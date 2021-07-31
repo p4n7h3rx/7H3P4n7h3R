@@ -1,12 +1,12 @@
 ### Hola, I'm Hashir Khan aka <a href=https://twitter.com/7H3P4n7h3R>P4n7h3r</a>! 👋
 
-<h2><ul>I Love To Break And Break And Create</ul></h2> 
+<h2><ul>Love To Crack </ul></h2> 
 
-- 🔭 I’m currently working on Bugcrowd,Hackerone,Intigrity As A Bughunter And Penetration Tester At <a href=https://securityfoster.com/>Security Foster</a>
+- 🔭 I’m currently working As Penetration Tester At <a href=https://securityfoster.com/>Security Foster</a>
 - 🌱 I’m currently learning Python And Go
 - 👯 I’m looking to collaborate on BugBounty Programs
 - 🤔 I’m looking for help with Creating Tools With Golang
-- 💬 Ask me about BugHunting 
+- 💬 Ask me about BugHunting Tips
 - ⚡ Fun fact: Eat-Sleep-Code-Repeat
 
 <h3>Connect with me:</h3>
