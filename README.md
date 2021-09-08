@@ -15,7 +15,7 @@
 <p>  
 I Am a Cyber Security Enthusiast :)) 
 </p>
-<p>I have started my journey in the security field as a bug bounty hunter. I have started my professional journey as Penetration Tester. Currently, I am working as Pentester/Security Researcher and Chief Operating Officer at Security Foster. In these 2+ years of experience, I have performed Penetration Testing on many national and international Banking, Financial, Government, Health, etc. organization's Internal and external applications with direct client communication.</p>
+<p>I have started my journey in the security field as a bug bounty hunter. I have started my professional journey as Penetration Tester. Currently, I am working as Pentester/Security Researcher and Chief Operating Officer at Security Foster. In these 4+ years of experience, I have performed Penetration Testing on many national and international Banking, Financial, Government, Health, etc. organization's Internal and external applications with direct client communication.</p>
 
 <p>Security Foster is team of security professionals who have worked and contributed to reputed organizations globally known.<br><br>
  <b>Hire Us!</b><br><a href="https://securityfoster.com/" rel="nofollow"><a href="https://securityfoster.com/" rel="nofollow">Security Foster</a></p></br>
