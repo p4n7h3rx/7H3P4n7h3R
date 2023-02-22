@@ -34,7 +34,7 @@ I Have submitted numerous security flaws to giant tech organizations like Epic G
 <li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> IoT Hacking</li>
 </ul>
 <br>
-
+</a>
 
 <br></br>
 
